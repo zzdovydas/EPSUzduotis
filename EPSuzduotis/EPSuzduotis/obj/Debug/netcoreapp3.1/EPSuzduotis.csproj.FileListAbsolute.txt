@@ -1,0 +1,13 @@
+C:\Users\zzdov\source\repos\EPSuzduotis\EPSuzduotis\bin\Debug\netcoreapp3.1\EPSuzduotis.exe
+C:\Users\zzdov\source\repos\EPSuzduotis\EPSuzduotis\bin\Debug\netcoreapp3.1\EPSuzduotis.deps.json
+C:\Users\zzdov\source\repos\EPSuzduotis\EPSuzduotis\bin\Debug\netcoreapp3.1\EPSuzduotis.runtimeconfig.json
+C:\Users\zzdov\source\repos\EPSuzduotis\EPSuzduotis\bin\Debug\netcoreapp3.1\EPSuzduotis.runtimeconfig.dev.json
+C:\Users\zzdov\source\repos\EPSuzduotis\EPSuzduotis\bin\Debug\netcoreapp3.1\EPSuzduotis.dll
+C:\Users\zzdov\source\repos\EPSuzduotis\EPSuzduotis\bin\Debug\netcoreapp3.1\EPSuzduotis.pdb
+C:\Users\zzdov\source\repos\EPSuzduotis\EPSuzduotis\obj\Debug\netcoreapp3.1\EPSuzduotis.csprojAssemblyReference.cache
+C:\Users\zzdov\source\repos\EPSuzduotis\EPSuzduotis\obj\Debug\netcoreapp3.1\EPSuzduotis.AssemblyInfoInputs.cache
+C:\Users\zzdov\source\repos\EPSuzduotis\EPSuzduotis\obj\Debug\netcoreapp3.1\EPSuzduotis.AssemblyInfo.cs
+C:\Users\zzdov\source\repos\EPSuzduotis\EPSuzduotis\obj\Debug\netcoreapp3.1\EPSuzduotis.csproj.CoreCompileInputs.cache
+C:\Users\zzdov\source\repos\EPSuzduotis\EPSuzduotis\obj\Debug\netcoreapp3.1\EPSuzduotis.dll
+C:\Users\zzdov\source\repos\EPSuzduotis\EPSuzduotis\obj\Debug\netcoreapp3.1\EPSuzduotis.pdb
+C:\Users\zzdov\source\repos\EPSuzduotis\EPSuzduotis\obj\Debug\netcoreapp3.1\EPSuzduotis.genruntimeconfig.cache
